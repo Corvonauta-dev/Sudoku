@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1512223838 source:c:\users\usuario\desktop\projetos\bcc\algoritmos\sudoku\main.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1512349984 source:c:\users\usuario\dropbox\sudoku\main.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<cstdlib>
+	<iostream>
+	<windows.h>
+
+1512349984 source:c:\users\usuario\desktop\sudoku - versão - final\main.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<cstdlib>
+	<iostream>
+	<windows.h>
+
+1512520846 source:c:\users\usuario\desktop\sudoku\main.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<cstdlib>
+	<iostream>
+	<windows.h>
+
+1512517248 source:e:\sudoku\main.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<cstdlib>
+	<iostream>
+	<windows.h>
+
+1512520848 source:f:\sudoku\main.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<cstdlib>
+	<iostream>
+	<windows.h>
+
+1512653068 source:g:\sudoku\main.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<cstdlib>
+	<iostream>
+	<windows.h>
+
