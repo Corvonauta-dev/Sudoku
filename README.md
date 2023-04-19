@@ -9,4 +9,6 @@ Agradecimento especial a Laiane Micaloski que realizou o trabalho duro de digita
 
 ![image](https://user-images.githubusercontent.com/78376569/232960497-3d098b40-afda-49c0-a58e-9edfab0ae785.png)
 
+Para cada jogo, as lacunas são organizadas de maneira aleatória, assim como as tabelas de jogo são selecionadas aleatoriamente, ambas baseado no nivel de dificuldade.
+
 ![image](https://user-images.githubusercontent.com/78376569/232960580-6281f66c-73c0-42a0-bbf3-ad7f90521c71.png)
